@@ -1,6 +1,7 @@
 {
-  "name": "fancy-todos",
-  "integrations": {},
+  "name": "amplify-ionic-sample-app",
   "type": "angular",
-  "id": "d9213c21"
+  "integrations": {
+    "cordova": {}
+  }
 }
